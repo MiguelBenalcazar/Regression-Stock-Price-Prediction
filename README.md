@@ -11,10 +11,10 @@ relationships between sequences
 
 1.- Regression: Stock Price Prediction
 2.- Data Standardization or data preprocessing
-  $$ 
+  $ 
   z_i = \frac{x_i - \min{x} }{\max{x} - \min{x}} 
-  $$
+  $
 3.- loss function 
-  $$ 
+  $
   MSE = \frac{1}{n} \sum{y_i - \tilde{y}_i}^2 
-  $$
+  $
