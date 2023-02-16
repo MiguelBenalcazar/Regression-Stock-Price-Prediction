@@ -15,6 +15,8 @@ relationships between sequences
 3.- loss function 
   $$MSE = \frac{1}{n} \sum{y_i - \tilde{y}_i}^2$$
 
-Exmaples
+#### Results
+
+
 ![alt text](https://github.com/MiguelBenalcazar/Regression-Stock-Price-Prediction/blob/main/AAPL.png)
 ![alt text](https://github.com/MiguelBenalcazar/Regression-Stock-Price-Prediction/blob/main/Test.png)
